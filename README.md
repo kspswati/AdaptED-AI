@@ -1,4 +1,5 @@
-AdaptED AI is a smart digital tutor that personalizes learning with real-time help, adaptive feedback, and simplified lessons—making education accessible, engaging, and tailored to you
+AdaptED AI is a smart digital tutor that personalizes learning with real-time help, adaptive feedback, and simplified lessons—making education accessible, engaging, and tailored to you.
+Check out: https://devpost.com/software/adapted-ai-dcuvok?ref_content=contribution-prompt&ref_feature=engagement&ref_medium=email&utm_campaign=contribution-prompt&utm_content=contribution_reminder&utm_medium=email&utm_source=transactional#app-team
 
 ## 🚀 Key Features
 
